@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Github App</string>
+    <string name="username_label">Username</string>
+    <string name="name_label">Name</string>
+    <string name="location_label">Location</string>
+    <string name="repository_label">Repository</string>
+    <string name="company_label">Company</string>
+    <string name="followers_label">Followers</string>
+    <string name="following_label">Following</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="data_emtpy">Data Kosong</string>
+    <string name="_0">0</string>
+    <string name="dark_mode">Dark Mode</string>
+</resources>
